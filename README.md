@@ -8,7 +8,7 @@ Audio examples for the [paper](https://link.for.the.paper):
 
 
 - input
-<audio src="audio/chorus/1-chorus_input.wav" controls preload></audio>
+<audio src="/audio/chorus/1-chorus_input.wav" controls preload></audio>
 
 ### Markdown
 
