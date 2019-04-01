@@ -15,7 +15,10 @@ Audio examples for the [paper](https://link.for.the.paper):
 <!-- columns divs, float left, no margin so there is no space between column, width=1/3 -->
 <div id="column1" style="float:left; margin:0; width:33%;">
 - input
-<audio style="width: 200px;" "src="audio/chorus/1-chorus_input.ogg"  controls="controls" ></audio>
+<audio controls="controls" width="300" height="32">
+    <source src="audio/chorus/1-chorus_input.ogg" type="audio/ogg" />
+    Your browser does not support the audio element.
+</audio>
 </div>
 
 <div id="column2" style="float:left; margin:0;width:33%;">
