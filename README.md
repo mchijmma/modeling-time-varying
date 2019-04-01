@@ -47,10 +47,9 @@ Audio examples for the [paper](https://link.for.the.paper):
 
 
 
-# Citation
-
-```
+### Citation
 <font size="6">
+```
 @inproceedings{martinez2019general,
   title={A general\-purpose deep learning approach to model time-varying audio effects},
   author={Mart\'{i}nez Ram\'{i}rez, Marco A., Benetos, Emmanouil and Reiss, Joshua D.},
@@ -59,6 +58,6 @@ Audio examples for the [paper](https://link.for.the.paper):
   year = {2019},
   location = {Birmingham, UK}
 }
-</font> 
 
 ```
+</font> 
