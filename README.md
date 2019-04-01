@@ -1,5 +1,3 @@
-## A general-purpose deep learning approach to model time-varying audio effects
-
 Audio examples for the [paper](https://link.for.the.paper):
 
 [Martínez Ramírez M. A.](http://m-marco.com), Benetos, E. and Reiss J. D., “A general-purpose deep learning approach to model time-varying audio effects” submitted to the 22nd International Conference on Digital Audio Effects (DAFx-19), Birmingham, UK, September 2019. 
@@ -22,7 +20,7 @@ Audio examples for the [paper](https://link.for.the.paper):
 - target <br />
 
     <audio controls="controls" >
-    <source src="audio/chorus/1-chorus_input.ogg" type="audio/ogg" />
+    <source src="audio/chorus/1-chorus_target.ogg" type="audio/ogg" />
 </audio>
 </div>
 
@@ -30,7 +28,7 @@ Audio examples for the [paper](https://link.for.the.paper):
 - output <br />
 
     <audio controls="controls">
-    <source src="audio/chorus/1-chorus_input.ogg" type="audio/ogg" />
+    <source src="audio/chorus/1-chorus_output.ogg" type="audio/ogg" />
 </audio>
 </div>
 </div>
