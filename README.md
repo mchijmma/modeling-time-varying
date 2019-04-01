@@ -21,7 +21,7 @@ Audio examples for the [paper](https://link.for.the.paper):
 </div>
 
 <div id="column2" style="float:left; margin:0;width:39%;">
-- targetfff
+- target
     <audio controls="controls" >
     <source src="audio/chorus/1-chorus_input.ogg" type="audio/ogg" />
 </audio>
