@@ -8,11 +8,11 @@ Audio examples for the [paper](https://link.for.the.paper):
 
 
 - input
-<audio src="/audio/chorus/1-chorus_input.wav" controls preload></audio>
+<audio src="/audio/chorus/1-chorus_input.wav" type="audio/mpeg" controls preload></audio>
 - target
-<audio src="/audio/chorus/2-chorus_target.wav" controls preload></audio>
+<audio src="/audio/chorus/2-chorus_target.wav" type="audio/mpeg" controls preload></audio>
 - output
-<audio src="/audio/chorus/3-chorus_output.wav" controls preload></audio>
+<audio src="/audio/chorus/3-chorus_output.wav" type="audio/mpeg" controls preload></audio>
 
 ### Markdown
 
