@@ -9,6 +9,10 @@ Audio examples for the [paper](https://link.for.the.paper):
 
 - input
 <audio src="/audio/chorus/1-chorus_input.wav" controls preload></audio>
+- target
+<audio src="/audio/chorus/2-chorus_target.wav" controls preload></audio>
+- output
+<audio src="/audio/chorus/3-chorus_output.wav" controls preload></audio>
 
 ### Markdown
 
