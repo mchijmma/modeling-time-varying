@@ -7,12 +7,12 @@ Audio examples for the [paper](https://link.for.the.paper):
 ### chorus
 
 
-- inputdasew
-<audio src="/audio/chorus/1-chorus_input.ogg"  controls="controls" autoplay="autoplay"></audio>
-- targetd
-<audio src="/audio/chorus/2-chorus_target.mp3" controls="controls" autoplay="autoplay"></audio>
+- input
+<audio src="audio/chorus/1-chorus_input.ogg"  controls="controls" autoplay="autoplay"></audio>
+- target
+<audio src="audio/chorus/2-chorus_target.mp3" controls="controls" autoplay="autoplay"></audio>
 - output
-<audio src="/audio/chorus/3-chorus_output.ogg" controls preload></audio>
+<audio src=/audio/chorus/3-chorus_output.ogg" controls preload></audio>
 
 ### Markdown
 
