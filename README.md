@@ -20,14 +20,14 @@ Audio examples for the [paper](https://link.for.the.paper):
 </audio>
 </div>
 
-<div id="column2" style="float:left; margin:0;width:40%;">
+<div id="column2" style="float:left; margin:0;width:20%;">
 - target
     <audio controls="controls" >
     <source src="audio/chorus/1-chorus_input.ogg" type="audio/ogg" />
 </audio>
 </div>
 
-<div id="column3" style="float:left; margin:0;width:40%">
+<div id="column3" style="float:left; margin:0;width:20%">
 - output
     <audio controls="controls">
     <source src="audio/chorus/1-chorus_input.ogg" type="audio/ogg" />
@@ -37,6 +37,16 @@ Audio examples for the [paper](https://link.for.the.paper):
 
 
 
+### Markdown
+
+```markdown
+
+- input
+- target
+- output
+
+
+```
 
 
 
