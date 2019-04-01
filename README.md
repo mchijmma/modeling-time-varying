@@ -40,16 +40,6 @@ Audio examples for the [paper](https://link.for.the.paper):
 
 
 
-### Markdown
-
-```markdown
-
-- input
-- target
-- output
-
-
-```
 
 
 
