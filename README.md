@@ -22,14 +22,19 @@ Audio examples for the [paper](https://link.for.the.paper):
 </div>
 
 <div id="column2" style="float:left; margin:0;width:33%;">
-- target
-<audio src="audio/chorus/1-chorus_input.ogg"  controls="controls" ></audio>
+- input
+    <audio controls="controls" width="150" height="16">
+    <source src="audio/chorus/1-chorus_input.ogg" type="audio/ogg" />
+    Your browser does not support the audio element.
+</audio>
 </div>
 
 <div id="column3" style="float:left; margin:0;width:33%">
-- output
-<audio src="audio/chorus/1-chorus_input.ogg"  controls="controls" ></audio>
-</div>
+- input
+    <audio controls="controls" width="150" height="16">
+    <source src="audio/chorus/1-chorus_input.ogg" type="audio/ogg" />
+    Your browser does not support the audio element.
+</audio>
 </div>
 
 
