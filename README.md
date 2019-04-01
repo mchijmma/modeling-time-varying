@@ -8,11 +8,8 @@ Audio examples for the [paper](https://link.for.the.paper):
 
 
 
-<!-- of course, you should move the inline CSS style to your stylesheet -->
-<!-- main container, width = 70% of page, centered -->
-<div id="contentBox" style="margin:0px auto; width:150%">
 
-<!-- columns divs, float left, no margin so there is no space between column, width=1/3 -->
+<div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - input <br />
 
@@ -49,7 +46,8 @@ Audio examples for the [paper](https://link.for.the.paper):
 
 ### Citation
 
-```
+
+
 @inproceedings{martinez2019general,
   title={A general\-purpose deep learning approach to model time-varying audio effects},
   author={Mart\'{i}nez Ram\'{i}rez, Marco A., Benetos, Emmanouil and Reiss, Joshua D.},
@@ -59,5 +57,4 @@ Audio examples for the [paper](https://link.for.the.paper):
   location = {Birmingham, UK}
 }
 
-```
 
