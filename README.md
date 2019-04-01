@@ -13,22 +13,25 @@ Audio examples for the [paper](https://link.for.the.paper):
 <div id="contentBox" style="margin:0px auto; width:200%">
 
 <!-- columns divs, float left, no margin so there is no space between column, width=1/3 -->
-<div id="column1" style="float:left; margin:0; width:50%;">
+<div id="column1" style="float:left; margin:0; width:33%;">
 - input
+
 <audio controls="controls">
     <source src="audio/chorus/1-chorus_input.ogg" type="audio/ogg" />
 </audio>
 </div>
 
-<div id="column2" style="float:left; margin:0;width:39%;">
+<div id="column2" style="float:left; margin:0;width:33%;">
 - target
+
     <audio controls="controls" >
     <source src="audio/chorus/1-chorus_input.ogg" type="audio/ogg" />
 </audio>
 </div>
 
-<div id="column3" style="float:left; margin:0;width:20%">
+<div id="column3" style="float:left; margin:0;width:33%">
 - output
+
     <audio controls="controls">
     <source src="audio/chorus/1-chorus_input.ogg" type="audio/ogg" />
 </audio>
