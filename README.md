@@ -13,7 +13,7 @@ Audio examples for the [paper](https://link.for.the.paper):
 <div id="contentBox" style="margin:0px auto; width:150%">
 
 <!-- columns divs, float left, no margin so there is no space between column, width=1/3 -->
-<div id="column1" style="float:left; margin:0; width:36%;">
+<div id="column1" style="float:left; margin:0; width:36.5%;">
 - input <br />
 
 <audio controls="controls">
@@ -21,7 +21,7 @@ Audio examples for the [paper](https://link.for.the.paper):
 </audio>
 </div>
 
-<div id="column2" style="float:left; margin:0;width:36%;">
+<div id="column2" style="float:left; margin:0;width:36.5%;">
 - target <br />
 
     <audio controls="controls" >
@@ -29,7 +29,7 @@ Audio examples for the [paper](https://link.for.the.paper):
 </audio>
 </div>
 
-<div id="column3" style="float:left; margin:0;width:28%">
+<div id="column3" style="float:left; margin:0;width:27%">
 - output <br />
 
     <audio controls="controls">
