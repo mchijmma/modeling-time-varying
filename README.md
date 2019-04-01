@@ -48,7 +48,7 @@ Audio examples for the [paper](https://link.for.the.paper):
 
 
 ### Citation
-<font size="6">
+<font size="1">
 ```
 @inproceedings{martinez2019general,
   title={A general\-purpose deep learning approach to model time-varying audio effects},
