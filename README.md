@@ -14,7 +14,7 @@ Audio examples for the [paper](https://link.for.the.paper):
 
 <!-- columns divs, float left, no margin so there is no space between column, width=1/3 -->
 <div id="column1" style="float:left; margin:0; width:34%;">
-- input
+- input <br />
 
 <audio controls="controls">
     <source src="audio/chorus/1-chorus_input.ogg" type="audio/ogg" />
@@ -22,7 +22,7 @@ Audio examples for the [paper](https://link.for.the.paper):
 </div>
 
 <div id="column2" style="float:left; margin:0;width:34%;">
-- target
+- target <br />
 
     <audio controls="controls" >
     <source src="audio/chorus/1-chorus_input.ogg" type="audio/ogg" />
@@ -30,7 +30,7 @@ Audio examples for the [paper](https://link.for.the.paper):
 </div>
 
 <div id="column3" style="float:left; margin:0;width:32%">
-- output
+- output <br />
 
     <audio controls="controls">
     <source src="audio/chorus/1-chorus_input.ogg" type="audio/ogg" />
