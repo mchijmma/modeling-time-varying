@@ -20,14 +20,14 @@ Audio examples for the [paper](https://link.for.the.paper):
 </audio>
 </div>
 
-<div id="column2" style="float:left; margin:0;width:60%;">
+<div id="column2" style="float:left; margin:0;width:40%;">
 - target
     <audio controls="controls" >
     <source src="audio/chorus/1-chorus_input.ogg" type="audio/ogg" />
 </audio>
 </div>
 
-<div id="column3" style="float:left; margin:0;width:60%">
+<div id="column3" style="float:left; margin:0;width:40%">
 - output
     <audio controls="controls">
     <source src="audio/chorus/1-chorus_input.ogg" type="audio/ogg" />
@@ -37,19 +37,7 @@ Audio examples for the [paper](https://link.for.the.paper):
 
 
 
-### Markdown
 
-```markdown
-
-- input
-<audio src="audio/chorus/1-chorus_input.wav" controls preload></audio>
-- target
-- output
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 
