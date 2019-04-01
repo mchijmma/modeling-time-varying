@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## A general-purpose deep learning approach to model time-varying audio effects
 
-You can use the [editor on GitHub](https://github.com/mchijmma/modeling-time-varying/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Audio examples for the [paper](https://link.for.the.paper):
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Martínez Ramírez M. A.](http://m-marco.com), Benetos, E. and Reiss J. D., “A general-purpose deep learning approach to model time-varying audio effects” submitted to the 22nd International Conference on Digital Audio Effects (DAFx-19), Birmingham, UK, September 2019. 
+
+### chorus
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+- input
+<audio src="audio/chorus/1-chorus_input.wav" controls preload></audio>
+- target
+- output
 
 [Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mchijmma/modeling-time-varying/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+# Citation
+
+```
+@inproceedings{martinez2019general,
+  title={A general\-purpose deep learning approach to model time-varying audio effects},
+  author={Mart\'{i}nez Ram\'{i}rez, Marco A., Benetos, Emmanouil and Reiss, Joshua D.},
+  booktitle={ submitted to the 22nd International Conference on Digital Audio Effects (DAFx-19)},
+  Month = {September},
+  year = {2019},
+  location = {Birmingham, UK}
+}
+
+```
