@@ -1,3 +1,11 @@
+
+
+
+
+<!-- of course, you should move the inline CSS style to your stylesheet -->
+<!-- main container, width = 70% of page, centered -->
+<div id="contentBox" style="margin:0px auto; width:150%">
+
 ## A general-purpose deep learning approach to model time-varying audio effects
 
 Audio examples for the [paper](https://link.for.the.paper):
@@ -5,12 +13,6 @@ Audio examples for the [paper](https://link.for.the.paper):
 [Martínez Ramírez M. A.](http://m-marco.com), Benetos, E. and Reiss J. D., “A general-purpose deep learning approach to model time-varying audio effects” submitted to the 22nd International Conference on Digital Audio Effects (DAFx-19), Birmingham, UK, September 2019. 
 
 ### chorus
-
-
-
-<!-- of course, you should move the inline CSS style to your stylesheet -->
-<!-- main container, width = 70% of page, centered -->
-<div id="contentBox" style="margin:0px auto; width:200%">
 
 <!-- columns divs, float left, no margin so there is no space between column, width=1/3 -->
 <div id="column1" style="float:left; margin:0; width:34%;">
