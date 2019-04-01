@@ -10,7 +10,7 @@ Audio examples for the [paper](https://link.for.the.paper):
 
 <!-- of course, you should move the inline CSS style to your stylesheet -->
 <!-- main container, width = 70% of page, centered -->
-<div id="contentBox" style="margin:0px auto; width:100%">
+<div id="contentBox" style="margin:0px auto; width:200%">
 
 <!-- columns divs, float left, no margin so there is no space between column, width=1/3 -->
 <div id="column1" style="float:left; margin:0; width:50%;">
