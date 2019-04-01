@@ -7,30 +7,31 @@ Audio examples for the [paper](https://link.for.the.paper):
 ### chorus
 
 
-- input
-<audio src="audio/chorus/1-chorus_input.ogg"  controls="controls" ></audio><audio src="audio/chorus/2-chorus_target.mp3" controls="controls" ></audio><audio src="audio/chorus/3-chorus_output.ogg" controls="controls" ></audio>
-
-
-
-
 
 <!-- of course, you should move the inline CSS style to your stylesheet -->
 <!-- main container, width = 70% of page, centered -->
-<div id="contentBox" style="margin:0px auto; width:70%">
+<div id="contentBox" style="margin:0px auto; width:100%">
 
 <!-- columns divs, float left, no margin so there is no space between column, width=1/3 -->
 <div id="column1" style="float:left; margin:0; width:33%;">
-<audio src="audio/chorus/1-chorus_input.ogg"  controls="controls" ></audio>
+- input
+<audio id="player" src="audio/chorus/1-chorus_input.ogg"  controls="controls" ></audio>
 </div>
 
 <div id="column2" style="float:left; margin:0;width:33%;">
+- target
 <audio src="audio/chorus/1-chorus_input.ogg"  controls="controls" ></audio>
 </div>
 
 <div id="column3" style="float:left; margin:0;width:33%">
+- output
 <audio src="audio/chorus/1-chorus_input.ogg"  controls="controls" ></audio>
 </div>
 </div>
+
+#player {
+width: 10%;
+}​
 
 ### Markdown
 
