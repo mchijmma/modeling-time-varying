@@ -10,7 +10,7 @@ Audio examples for the [paper](https://link.for.the.paper):
     <source src="audio2/Chorus/1-Chorus_input.ogg" type="audio/ogg" />
 </audio>
 <audio controls="controls">
-    <source src="audio2/Chorus/2-Chorus_input.ogg" type="audio/ogg" />
+    <source src="audio2/Chorus/1-Chorus_input.mp3" type="audio/ogg" />
 </audio>
 <audio controls="controls">
     <source src="audio2/Chorus/3-Chorus_input.ogg" type="audio/ogg" />
@@ -20,7 +20,7 @@ Audio examples for the [paper](https://link.for.the.paper):
 <div id="column2" style="float:left; margin:0;width:36.5%;">
 - target <br />
 <audio controls="controls">
-    <source src="audio2/Chorus/1-Chorus_target.ogg" type="audio/ogg" />
+    <source src="audio2/Chorus/2-Chorus_target.ogg" type="audio/ogg" />
 </audio>
 <audio controls="controls">
     <source src="audio2/Chorus/2-Chorus_target.mp3" type="audio/ogg" />
@@ -33,10 +33,10 @@ Audio examples for the [paper](https://link.for.the.paper):
 <div id="column3" style="float:left; margin:0;width:27%">
 - output <br />
 <audio controls="controls">
-    <source src="audio2/Chorus/1-Chorus_output.ogg" type="audio/ogg" />
+    <source src="audio2/Chorus/3-Chorus_output.ogg" type="audio/ogg" />
 </audio>
 <audio controls="controls">
-    <source src="audio2/Chorus/2-Chorus_output.ogg" type="audio/ogg" />
+    <source src="audio2/Chorus/3-Chorus_output.mp3" type="audio/ogg" />
 </audio>
 <audio controls="controls">
     <source src="audio2/Chorus/3-Chorus_output.ogg" type="audio/ogg" />
