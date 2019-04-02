@@ -23,7 +23,7 @@ Audio examples for the [paper](https://link.for.the.paper):
     <source src="audio2/Chorus/1-Chorus_target.ogg" type="audio/ogg" />
 </audio>
 <audio controls="controls">
-    <source src="audio2/Chorus/2-Chorus_target.ogg" type="audio/ogg" />
+    <source src="audio2/Chorus/2-Chorus_target.mp3" type="audio/ogg" />
 </audio>
 <audio controls="controls">
     <source src="audio2/Chorus/3-Chorus_target.ogg" type="audio/ogg" />
