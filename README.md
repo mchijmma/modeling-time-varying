@@ -44,7 +44,7 @@ Audio examples for the [paper](https://link.for.the.paper):
 </div>
 </div>
 
-
+<br />
 ### flanger
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
@@ -94,10 +94,8 @@ Audio examples for the [paper](https://link.for.the.paper):
 
 
 
-
+<br />
 ### Citation
-
-
 <font size="1">
 @inproceedings{martinez2019general,<br />
 title={A general\-purpose deep learning approach to model time-varying audio effects},<br />
