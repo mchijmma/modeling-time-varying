@@ -43,9 +43,8 @@ Audio examples for the [paper](https://link.for.the.paper):
 </audio>
 </div>
 </div>
-
 &nbsp;
-### flangers
+### flanger
 <div id="contentBox" style="margin:0px auto; width:150%">
 <div id="column1" style="float:left; margin:0; width:36.5%;">
 - input <br />
@@ -86,6 +85,48 @@ Audio examples for the [paper](https://link.for.the.paper):
 </audio>
 </div>
 </div>
+&nbsp;
+### phaser
+<div id="contentBox" style="margin:0px auto; width:150%">
+<div id="column1" style="float:left; margin:0; width:36.5%;">
+- input <br />
+<audio controls="controls">
+    <source src="audio/Phaser/1-Phaser_input.ogg" type="audio/ogg" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Phaser/2-Phaser_input.ogg" type="audio/ogg" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Phaser/3-Phaser_input.ogg" type="audio/ogg" />
+</audio>
+</div>
+
+<div id="column2" style="float:left; margin:0;width:36.5%;">
+- target <br />
+<audio controls="controls">
+    <source src="audio/Phaser/1-Phaser_target.ogg" type="audio/ogg" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Phaser/2-Phaser_target.ogg" type="audio/ogg" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Phaser/3-Phaser_target.ogg" type="audio/ogg" />
+</audio>
+</div>
+
+<div id="column3" style="float:left; margin:0;width:27%">
+- output <br />
+<audio controls="controls">
+    <source src="audio/Phaser/1-Phaser_output.ogg" type="audio/ogg" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Phaser/2-Phaser_output.ogg" type="audio/ogg" />
+</audio>
+<audio controls="controls">
+    <source src="audio/Phaser/3-Flanger_output.ogg" type="audio/ogg" />
+</audio>
+</div>
+</div>
 
 
 
@@ -94,7 +135,8 @@ Audio examples for the [paper](https://link.for.the.paper):
 
 
 
-<br />
+
+&nbsp;
 ### Citation
 <font size="1">
 @inproceedings{martinez2019general,<br />
