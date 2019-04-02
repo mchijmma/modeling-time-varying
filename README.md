@@ -8,7 +8,11 @@ Audio examples for the [paper](https://link.for.the.paper):
 - input <br />
 <audio controls="controls">
     <source src="audio/Chorus/1-Chorus_input.ogg" type="audio/ogg" />
+</audio>
+<audio controls="controls">
     <source src="audio/Chorus/2-Chorus_input.ogg" type="audio/ogg" />
+</audio>
+<audio controls="controls">
     <source src="audio/Chorus/3-Chorus_input.ogg" type="audio/ogg" />
 </audio>
 </div>
