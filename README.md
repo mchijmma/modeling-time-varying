@@ -1,6 +1,6 @@
 Audio examples for the [paper](https://link.for.the.paper):
 
-[Martínez Ramírez M. A.](http://m-marco.com), Benetos, E. and Reiss J. D., “A general-purpose deep learning approach to model time-varying audio effects” submitted to the 22nd International Conference on Digital Audio Effects (DAFx-19), Birmingham, UK, September 2019.
+[Martínez Ramírez M. A.](http://m-marco.com), [Benetos, E.](https://www.eecs.qmul.ac.uk/~emmanouilb/) and [Reiss J. D.](http://www.eecs.qmul.ac.uk/~josh/), “A general-purpose deep learning approach to model time-varying audio effects” submitted to the 22nd International Conference on Digital Audio Effects (DAFx-19), Birmingham, UK, September 2019.
 
 ### chorus
 <div id="contentBox" style="margin:0px auto; width:150%">
