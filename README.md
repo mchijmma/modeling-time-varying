@@ -1,6 +1,6 @@
 [Audio examples](https://mchijmma.github.io/modeling-time-varying/) for the [paper](https://arxiv.org/abs/1905.06148):
 
-[Martínez Ramírez M. A.](http://m-marco.com), [Benetos, E.](https://www.eecs.qmul.ac.uk/~emmanouilb/) and [Reiss J. D.](http://www.eecs.qmul.ac.uk/~josh/), “A general-purpose deep learning approach to model time-varying audio effects” submitted to the 22nd International Conference on Digital Audio Effects (DAFx-19), Birmingham, UK, September 2019.
+[Martínez Ramírez M. A.](http://m-marco.com), [Benetos, E.](https://www.eecs.qmul.ac.uk/~emmanouilb/) and [Reiss J. D.](http://www.eecs.qmul.ac.uk/~josh/), “A general-purpose deep learning approach to model time-varying audio effects” in the 22nd International Conference on Digital Audio Effects (DAFx-19), Birmingham, UK, September 2019.
 
 ### chorus
 <div id="contentBox" style="margin:0px auto; width:150%">
@@ -787,7 +787,7 @@
 >@inproceedings{martinez2019general,<br />
 >   title={A general\-purpose deep learning approach to model time-varying audio effects},<br />
 >   author={Mart\'{i}nez Ram\'{i}rez, Marco A., Benetos, Emmanouil and Reiss, Joshua D.},<br />
->   booktitle={ submitted to the 22nd International Conference on Digital Audio Effects (DAFx-19)},<br />
+>   booktitle={22nd International Conference on Digital Audio Effects (DAFx-19)},<br />
 >   month = {September},<br />
 >   year = {2019},<br />
 >   location = {Birmingham, UK}<br />
