@@ -786,7 +786,7 @@
 ### Citation
 >@inproceedings{martinez2019general,<br />
 >   title={A general\-purpose deep learning approach to model time-varying audio effects},<br />
->   author={Mart\'{i}nez Ram\'{i}rez, Marco A., Benetos, Emmanouil and Reiss, Joshua D.},<br />
+>   author={Mart`\`'{i}nez Ram`\`'{i}rez, Marco A., Benetos, Emmanouil and Reiss, Joshua D.},<br />
 >   booktitle={22nd International Conference on Digital Audio Effects (DAFx-19)},<br />
 >   month = {September},<br />
 >   year = {2019},<br />
