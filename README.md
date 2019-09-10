@@ -1,4 +1,4 @@
-[Audio examples](https://mchijmma.github.io/modeling-time-varying/) for the [paper](https://arxiv.org/abs/1905.06148):
+[Audio examples](https://mchijmma.github.io/modeling-time-varying/) for the [paper](http://dafx2019.bcu.ac.uk/papers/DAFx2019_paper_12.pdf):
 
 [Martínez Ramírez M. A.](http://m-marco.com), [Benetos, E.](https://www.eecs.qmul.ac.uk/~emmanouilb/) and [Reiss J. D.](http://www.eecs.qmul.ac.uk/~josh/), “A general-purpose deep learning approach to model time-varying audio effects” in the 22nd International Conference on Digital Audio Effects (DAFx-19), Birmingham, UK, September 2019.
 
